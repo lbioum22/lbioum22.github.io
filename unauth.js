@@ -1,5 +1,5 @@
 //SDEs
-indow.lpTag = window.lpTag || {};
+window.lpTag = window.lpTag || {};
 lpTag.sdes = lpTag.sdes||[];
 lpTag.sdes.push(
 {
@@ -8,7 +8,7 @@ lpTag.sdes.push(
     "customerId": "lpb_subsc1",
     "balance": 11.7,
     "currency": "USD",
-    "storeZipCode": "Shopping Cart JS Unauthenticated"
+    "storeZipCode": document.title
   }
 
 }
