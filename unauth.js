@@ -20,3 +20,8 @@ lpTag.identities.push(identityFn);
 function identityFn(callback) {
   callback(null);
 }
+
+//Section
+lpTag.section = [
+   "Athenticated"
+ ];
