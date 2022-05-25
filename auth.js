@@ -17,4 +17,9 @@ function identityFn(callback) {
       sub: "lpb_subsc1"
     }
   );
-} 
+}
+
+//Section
+lpTag.section = [
+   "Athenticated"
+ ];
