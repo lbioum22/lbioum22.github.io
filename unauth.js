@@ -23,5 +23,5 @@ function identityFn(callback) {
 
 //Section
 lpTag.section = [
-   "Unauthenticated","engagement","engagement-rings"
+   "Unauthenticated"
  ];
