@@ -14,7 +14,7 @@ function identityFn(callback) {
     {
       iss: "https://www.lpbrand.com",
       acr: "loa1",
-      sub: "lpb_subsc1"
+      sub: "lpb_subsc1_auth"
     }
   );
 }
