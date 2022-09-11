@@ -21,5 +21,5 @@ function identityFn(callback) {
 
 //Section
 lpTag.section = [
-   "Athenticated"
+   "Authenticated"
  ];
